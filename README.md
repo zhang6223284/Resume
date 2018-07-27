@@ -2,7 +2,7 @@
 ## Resume
 #### 预览
 
-[预览](https://github.com/zhang6223284/Resume/blob/master/index.html)
+[预览](https://zhang6223284.github.io/Resume/index.html)
 
 
 #### 打印方法
