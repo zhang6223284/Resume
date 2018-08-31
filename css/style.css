@@ -278,34 +278,34 @@ a {
   border-radius: 0 6px 6px 0;
 }
 .content-hd .skill-level .i-html .in {
-  flex: 5;
+  flex: 4;
 }
 .content-hd .skill-level .i-html .out {
   flex: 2;
 }
 .content-hd .skill-level .i-css .in {
-  flex: 5;
+  flex: 4;
 }
 .content-hd .skill-level .i-css .out {
   flex: 2;
 }
 .content-hd .skill-level .i-js .in {
-  flex: 10;
+  flex: 9;
 }
 .content-hd .skill-level .i-js .out {
+  flex: 1;
+}
+.content-hd .skill-level .i-vue .in {
+  flex: 3;
+}
+.content-hd .skill-level .i-vue .out {
   flex: 2;
 }
-.content-hd .skill-level .i-sass .in {
-  flex: 5;
+.content-hd .skill-level .i-webpack .in {
+  flex: 3;
 }
-.content-hd .skill-level .i-sass .out {
-  flex: 4;
-}
-.content-hd .skill-level .i-ps .in {
-  flex: 5;
-}
-.content-hd .skill-level .i-ps .out {
-  flex: 2.5;
+.content-hd .skill-level .i-webpack .out {
+  flex: 2;
 }
 @media screen and (max-width: 1024px) {
   .content-hd .skill-level {
@@ -532,22 +532,22 @@ a {
   display: inline;
   line-height: 18px;
 }
-.content-bd .practice .item-time {
+.content-bd .education .item-time {
   width: 32%;
 }
 @media screen and (max-width: 720px) {
-  .content-bd .practice .item-time {
+  .content-bd .education .item-time {
     width: 100%;
   }
 }
-.content-bd .prize .item-hd {
+.content-bd .selfcontent .item-hd {
   padding: 12px 0 0;
 }
-.content-bd .prize .item-time {
+.content-bd .selfcontent .item-time {
   width: 15%;
 }
 @media screen and (max-width: 720px) {
-  .content-bd .prize .item-time {
+  .content-bd .selfcontent .item-time {
     width: 100%;
   }
 }
