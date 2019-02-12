@@ -296,15 +296,15 @@ a {
   flex: 1;
 }
 .content-hd .skill-level .i-vue .in {
-  flex: 3;
+  flex: 4;
 }
 .content-hd .skill-level .i-vue .out {
   flex: 2;
 }
-.content-hd .skill-level .i-webpack .in {
-  flex: 3;
+.content-hd .skill-level .i-react .in {
+  flex: 6;
 }
-.content-hd .skill-level .i-webpack .out {
+.content-hd .skill-level .i-react .out {
   flex: 2;
 }
 @media screen and (max-width: 1024px) {
